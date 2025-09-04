@@ -28,7 +28,6 @@ This RESTful API manages **user authentication, financial data, and automated ta
 ---
 
 ## 🚀 Features
-- 🔐 Secure user authentication with JWT  
 - 📊 Transaction tracking with categories  
 - ⚡ Redis-based caching & request rate limiting  
 - ⏰ Scheduled jobs with Node Cron  
